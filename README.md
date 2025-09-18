@@ -1,3 +1,6 @@
+> **License:** Examples in this repo are MIT.  
+> **API:** Proprietary — see [API-TERMS.md](./API-TERMS.md).
+
 # SBOM Impact QuickCheck
 
 One POST, instant CVE impact for your SBOM. Give us a lightweight component list (npm / PyPI today), and get back the exact vulnerabilities and the minimal fixed versions you need to patch. Built for CI pipelines, PR checks, and SRE/AppSec dashboards.
