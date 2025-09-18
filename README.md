@@ -5,7 +5,7 @@
 
 One POST, instant CVE impact for your SBOM. Give us a lightweight component list (npm / PyPI today), and get back the exact vulnerabilities and the minimal fixed versions you need to patch. Built for CI pipelines, PR checks, and SRE/AppSec dashboards.
 
-- **API Hub (RapidAPI):** `https://rapidapi.com/oslo-sas-oslo-sas-default/api/sbom-impact-quickcheck
+- **API Hub (RapidAPI):** https://rapidapi.com/oslo-sas-oslo-sas-default/api/sbom-impact-quickcheck
 - **Base URL (RapidAPI):** `https://sbom-impact-quickcheck.p.rapidapi.com`
 - **Base URL (Direct):** `https://sbom-quickcheck.logpress.io`
 
